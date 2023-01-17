@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Coffee | Shop</title>
+    <style type="text/css">
+    body{
+        background-image:url("coffee.jpg");
+        background-repeat:no-repeat;
+        background-size:cover;
+        background-position:center;
+    }
+
+    </style>
+  
+</head>
+<body>
+    
+    <div class="container">
+    <div class="nav-bar">  
+     <h1 class="title">Cof<span>fee</span></h1>
+     <p>Coffee Shop</p>
+     <ul class="menu">
+     <li><a href="#">HOME</a></li>
+     <li><a href="#">PRODUCT</a></li>
+     <li><a href="#">SERVICES</a></li>
+     <li><a href="#">CONTACT</a></li>
+     <li><a href="#">ABOUT</a></li>
+  </ul>
+    </div>
+    <div class="home">
+    <h1 class="title-1">Good <span>Coffee</span>  Will always<br>Find the audience</h1>
+    <p>**We provide a variety of uniques and best Coffees **</p>
+    <br>
+    <a href="form.html">
+        <button class="button">LOGIN</button></a>
+    </button>
+</div>
+
+</body>
+</html>
